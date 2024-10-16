@@ -1,7 +1,7 @@
 # TG-REPORT🔥
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20SHERE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TG%20-REPORT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
@@ -39,5 +39,11 @@ python ƬǤ♚ⱤɆ₱ØⱤ.py
 
 
 #### Password 
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
