@@ -43,7 +43,7 @@ python ƬǤ♚ⱤɆ₱ØⱤ.py
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
+![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20241015-153817.png)
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
