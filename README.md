@@ -33,12 +33,15 @@ python ƬǤ♚ⱤɆ₱ØⱤ.py
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-#### USERNAME 
+#### USERNAME ইউজারনেম টেলিগ্রাম চ্যানেলে দেওয়া আছে।
+
+https://t.me/Abdullha_404/845
 
 
+#### Password  পাসওয়ার্ড টেলিগ্রাম চ্যানেলে দেওয়া আছে।
 
+https://t.me/Abdullha_404/845
 
-#### Password 
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
